@@ -3,6 +3,7 @@ package com.backend.loginAndRegister.registration;
 import lombok.*;
 
 @Getter
+@Setter
 @AllArgsConstructor
 @EqualsAndHashCode
 @ToString
